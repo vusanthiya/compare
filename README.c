@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<copnio.h>
 void main()
 {
 char str1[50],str2[50];
